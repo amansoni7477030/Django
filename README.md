@@ -1,4 +1,4 @@
-# Django-assignmemt
+# Django
 The API endpoints provided are used to access and manipulate data stored in the backend database.
 
 /api/works - This endpoint returns a list of all the works stored in the database.
